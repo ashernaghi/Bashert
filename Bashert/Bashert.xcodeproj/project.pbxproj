@@ -15,6 +15,7 @@
 		B043ED2C213F672000DE07FE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B043ED2A213F672000DE07FE /* LaunchScreen.storyboard */; };
 		B043ED37213F672100DE07FE /* BashertTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B043ED36213F672100DE07FE /* BashertTests.swift */; };
 		B043ED42213F672100DE07FE /* BashertUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B043ED41213F672100DE07FE /* BashertUITests.swift */; };
+		B043ED50213F69DC00DE07FE /* default-profile-picture.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B043ED4F213F69DB00DE07FE /* default-profile-picture.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		B043ED3D213F672100DE07FE /* BashertUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BashertUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B043ED41213F672100DE07FE /* BashertUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BashertUITests.swift; sourceTree = "<group>"; };
 		B043ED43213F672100DE07FE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B043ED4F213F69DB00DE07FE /* default-profile-picture.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "default-profile-picture.jpg"; path = "../../../Desktop/default-profile-picture.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		B043ED1E213F671C00DE07FE /* Bashert */ = {
 			isa = PBXGroup;
 			children = (
+				B043ED4F213F69DB00DE07FE /* default-profile-picture.jpg */,
 				B043ED1F213F671C00DE07FE /* AppDelegate.swift */,
 				B043ED21213F671C00DE07FE /* FirstViewController.swift */,
 				B043ED23213F671C00DE07FE /* SecondViewController.swift */,
@@ -234,6 +237,7 @@
 			files = (
 				B043ED2C213F672000DE07FE /* LaunchScreen.storyboard in Resources */,
 				B043ED29213F672000DE07FE /* Assets.xcassets in Resources */,
+				B043ED50213F69DC00DE07FE /* default-profile-picture.jpg in Resources */,
 				B043ED27213F671C00DE07FE /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
